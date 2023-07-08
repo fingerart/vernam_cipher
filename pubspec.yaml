@@ -1,7 +1,7 @@
 name: vernam_cipher
-description: A sample command-line application.
+description: Dart implementation of Vernam Cipher
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+ repository: https://github.com/fingerart/vernam_cipher.git
 
 environment:
   sdk: ^3.0.5
