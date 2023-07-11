@@ -1,10 +1,10 @@
 name: vernam_cipher
 description: Dart implementation of Vernam Cipher
-version: 1.0.0
+version: 1.0.0+1
 repository: https://github.com/fingerart/vernam_cipher
 
 environment:
-  sdk: ^3.0.5
+  sdk: '>=2.19.0 <4.0.0'
 
 # Add regular dependencies here.
 dependencies:
